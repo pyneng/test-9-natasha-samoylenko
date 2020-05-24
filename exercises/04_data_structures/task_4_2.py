@@ -9,3 +9,8 @@
 """
 
 mac = "AAAA:BBBB:CCCC"
+
+# Все отлично
+
+# вариант решения
+print(mac.lower())

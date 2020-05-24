@@ -10,3 +10,8 @@
 """
 
 nat = "ip nat inside source list ACL interface FastEthernet0/1 overload"
+
+# Все отлично
+
+# вариант решения
+print(nat.upper())
